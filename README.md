@@ -1,6 +1,6 @@
 # Discord Nuke Tool
 
-Herramienta modular para pruebas de estrés en servidores Discord.
+Herramienta para destruir servidores de díscord 
 
 ## Instalación
 
